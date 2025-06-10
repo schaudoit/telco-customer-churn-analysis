@@ -1,7 +1,3 @@
-# Ignore datasets
-data/*.csv
-data/*.xlsx
-
 # Ignore Jupyter checkpoints
 **/.ipynb_checkpoints
 
